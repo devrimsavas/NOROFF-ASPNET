@@ -1,0 +1,6 @@
+@NOROFF_ASPNET_HostAddress = http://localhost:5164
+
+GET {{NOROFF_ASPNET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
