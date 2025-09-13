@@ -1,0 +1,18 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=<host>;Database=<databse_name>;user=<root>;password=<your_password>"
+},
+"JWTSettings": {
+  "SecretKey":<your_secret_key>
+  "Issuer":"MyIssuer",
+  "Audience":"MyAudience",
+  "ExpiryMinutes":60 
+}
+}
