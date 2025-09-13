@@ -102,4 +102,4 @@ Swagger / Swashbuckle
 JWT Authentication
 
 - 📸 Example Swagger UI:  
-  ![Swagger Screenshot](docs/swagger.png)
+  ![Swagger Screenshot](docs/swagger-screenshot.png)
